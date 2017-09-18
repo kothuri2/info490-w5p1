@@ -1,0 +1,48 @@
+SCL Santiago
+LIM Lima
+MEX Mexico City
+BOG Bogota
+BUE Buenos Aires
+SAO Sao Paulo
+LOS Lagos
+FIH Kinshasa
+JNB Johannesburg
+KRT Khartoum
+CAI Cairo
+ALG Algiers
+MAD Madrid
+LON London
+PAR Paris
+MIL Milan
+ESS Essen
+LED St. Petersburg
+MOW Moscow
+IST Istanbul
+BGW Bagdad
+THR Tehrah
+RUH Riyadh
+KHI Karachi
+DEL Delhi
+BOM Mumbai
+MAA Chennai
+CCU Calcutta
+BKK Bangkok
+HKG Hong Kong
+SHA Shanghai
+PEK Beijing
+ICN Seoul
+TYO Tokyo
+OSA Osaka
+TPE Taipei
+MNL Manila
+SGN Ho Chi Minh City
+JKT Jakarta
+SYD Sydney
+LAX Los Angeles
+SFO San Francisco
+CHI Chicago
+ATL Atlanta
+MIA Miami
+WAS Washington
+NYC New York
+YYZ Toronto
